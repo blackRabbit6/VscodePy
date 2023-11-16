@@ -1,0 +1,11 @@
+# 함수 public String getTitle(){ String ss ="화숙";  return ss;}
+# 함수 def getTitle()
+#        ss ="화숙"  
+#        return ss
+# 파이썬에서 리스트 [] 열거형 = 나열 순서유지, 중복허용, crud 전부허용
+# 파이썬에서 tuple() 순서유지, 데이터추가, 추가X
+# 파이썬에서 set{} 순서유지X, 중복허용X
+# 파이썬에서 dict{ k:v } 키값허용X, 추가, 삭제 - (고급용)
+
+# lotto = [ 34,9,12,45,17,8 ]
+# board = [ 'kim' , True, 34.9, 'B', 789, 'B', 'kim' ]
